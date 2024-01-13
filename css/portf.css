@@ -1,0 +1,47 @@
+body {
+    background-color: #FAEED1;
+  }
+
+h1, h2 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h1{
+    text-shadow: 2px 2px;
+}
+
+
+p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+a:link {
+    color: #005ce6;
+}
+
+a:visited, a:hover {
+    color: #005ce6;
+    text-decoration: none;
+}
+
+.first{
+    background-color: #FAEED1;
+    text-align: center;
+
+}
+
+.second{
+    background-color: #FAEED1;
+    text-align: left;
+}
+
+.third{
+    background-color: #FAEED1;
+    text-align: left;
+}
+
+.forth{
+    background-color: #BBAB8C;
+    text-align: center;
+}
